@@ -1,0 +1,30 @@
+# Population Data Analysis
+
+## Introduction
+
+This project fetches population data from an API, stores it in an SQLite database, and performs analysis on the data. The analysis includes queries to find population increases and decreases for different states.
+
+## Features
+
+- Fetches population data from an API
+- Stores data in an SQLite database
+- Performs analysis on population data
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Requests library (`pip install requests`)
+- asyncio library (`pip install asyncio`)
+- sqlite3 library (`pip install sqlite3`)
+- concurrent.futures (`pip install concurrent.futures`)
+- aiohttp library (`pip install aiohttp`)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone `https://github.com/bhargavpshah98/Population-Analysis.git`
+   cd Population-Analysis
