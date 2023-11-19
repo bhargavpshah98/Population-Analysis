@@ -6,9 +6,9 @@ This project fetches population data from an API, stores it in an SQLite databas
 
 ## Features
 
-- Fetches population data from an API
-- Stores data in an SQLite database
-- Performs analysis on population data
+- Fetches population data from an API concurrently
+- Stores data in an SQLite database in asynchronous manner
+- Performs analysis on population data with user input
 
 ## Getting Started
 
